@@ -2,6 +2,12 @@ body {
     background-image: url(https://i.postimg.cc/fLSx3Q6B/4325792.webp);
 }
 
+h1 {
+    
+    color: white;
+    margin-left: 43%;
+}
+
 img {
     margin-left: 30%;
     margin-top: 5%;
@@ -15,6 +21,7 @@ button {
 h2 {
     color: rgb(72, 175, 151);
     background-color: black;
+    text-align: center;
 }
 
 @media screen and (max-width: 414px){
